@@ -1,0 +1,17 @@
+{
+  "name": "juguete3.0",
+  "version": "1.0.0",
+  "description": "IT IS A NEW JUGUETE APP MADE IN JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "3.0.1"
+  }
+}
